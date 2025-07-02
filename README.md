@@ -24,3 +24,9 @@ bash
 git clone https://github.com/raghu171819/SystemPerformanceTracker.git
 cd SystemPerformanceTracker
 If you need more details about usage, setup, or the internal structure, let me know what specific aspect you want to explore!
+![Screenshot 2025-07-01 125948](https://github.com/user-attachments/assets/b939bfcd-8681-4684-93dc-bb3802840da2)
+![Screenshot 2025-07-01 130108](https://github.com/user-attachments/assets/4dd4d469-9645-49b4-afad-788d097475d0)
+![Screenshot 2025-07-01 130142](https://github.com/user-attachments/assets/ae03d2b4-b317-4c9f-aeed-810f3ebfbc41)
+![Screenshot 2025-07-01 130153](https://github.com/user-attachments/assets/121f2bd3-e34b-4cff-89dd-c0de2179aca3)
+![Screenshot 2025-07-01 130204](https://github.com/user-attachments/assets/5335ca14-6eee-47bb-bd80-20bfaacbe27c)
+![Screenshot 2025-07-01 122030](https://github.com/user-attachments/assets/6202300a-3db4-42ea-8b6d-b3ae593fefb2)
