@@ -2,6 +2,12 @@ This repository, SystemPerformanceTracker by raghu171819, is a modern web-based 
 
 Key Features
 Real-Time Monitoring: Live charts for CPU, RAM, and disk usage with WebSocket auto-refresh.
+
+
+
+
+
+
 Predictive Analytics: Uses machine learning models (Prophet, LSTM) to forecast performance and visualize trends.
 AI Assistant (Gemini API): Interact using natural language for insights and predictions about system metrics.
 Responsive UI: Built with React and TailwindCSS, supports light/dark mode, and is mobile-friendly.
